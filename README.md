@@ -1,3 +1,7 @@
 # blackhole.py
+
 Python 3 version of [Sendmail with clamav-milter < 0.91.2 - Remote Command Execution](https://www.exploit-db.com/exploits/4761).
 
+Edit HOST.
+Run the script and wait a min.
+Open a bind shell.
